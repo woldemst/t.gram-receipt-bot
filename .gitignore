@@ -1,0 +1,52 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# MacOS files
+.DS_Store
+
+# Environment variables
+.env
+
+# Build directories
+dist/
+build/
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# React Native
+.expo/
+.expo-shared/
